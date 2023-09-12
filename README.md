@@ -15,7 +15,7 @@ Not sure how true that statement is, but the bomb sync is out sometimes.
 
 Send CSGO:GSI data from python to Arduino through serial communication
 
-### Materials
+### Materials.
 
 * Arduino (Uno, Mega, Mini...)
 * 3 resistors 100Ω
